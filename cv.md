@@ -1,5 +1,5 @@
 First and last name: Alina Simuhina<br>
-<img src='https://sun7.userapi.com/sun7-14/s/v1/ig1/9_SJQdWwPI_IErKdYLDeg521aiSOg0yjjwgslPlFN7Iq7ZS-MHG6ZsR2_3AREBTIIb4RW9ZS.jpg?size=200x200&quality=96&crop=8,8,1721,1721&ava=1'>
+<img src='https://sun7.userapi.com/sun7-14/s/v1/ig1/9_SJQdWwPI_IErKdYLDeg521aiSOg0yjjwgslPlFN7Iq7ZS-MHG6ZsR2_3AREBTIIb4RW9ZS.jpg?size=200x200&quality=96&crop=8,8,1721,1721&ava=1'<br>
 Contacts for communication: phone: +7 917 929-65-66; dickort: simalina554<br>
 Brief information about yourself: 1) goal: to become better; 2) priorities: get more experience; 3) emphasize your strengths: responsibility, purposefulness; 4) about his desire to learn and learn new things: a great desire to learn new things;<br>
 Skills: Python, Django<br>
