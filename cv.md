@@ -1,6 +1,6 @@
 First and last name: Alina Simuhina;<br>
 
-<imd src='9_SJQdWwPI_IErKdYLDeg521aiSOg0yjjwgslPlFN7Iq7ZS-MHG6ZsR2_3AREBTIIb4RW9ZS'align='right'>
+9_SJQdWwPI_IErKdYLDeg521aiSOg0yjjwgslPlFN7Iq7ZS-MHG6ZsR2_3AREBTIIb4RW9ZS
 
 <br>
 Contacts for communication: phone: +7 917 929-65-66; dickort: simalina554;<br>
