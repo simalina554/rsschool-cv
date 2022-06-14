@@ -1,5 +1,4 @@
-<!Doctype html>
-<html lang='ru'
+
 <head>
 </head>
 <body>
@@ -19,4 +18,4 @@ No work experience. I want to learn JavaScript and improve my knowledge</p>
   <p><a href='https://github.com/simalina554/webHtml/tree/main/miniWebsite'>Example project</a></p>
 </div>
 </body>
-</html>
+
