@@ -1,9 +1,23 @@
-<p><b>Alina Simuhina</b></p><br>
-![9_SJQdWwPI_IErKdYLDeg521aiSOg0yjjwgslPlFN7Iq7ZS-MHG6ZsR2_3AREBTIIb4RW9ZS]
-<br>
-<b>Contacts</b>
-<p>phone: +7 917 929-65-66;<br>dickort: simalina554;</p><br>
-Brief information about yourself: 1) goal: to become better; 2) priorities: get more experience; 3) emphasize your strengths: responsibility, purposefulness; 4) about his desire to learn and learn new things: a great desire to learn new things;<br>
-Skills: Python, Django;<br>
-English: A2.
-
+<!Doctype html>
+<html lang='ru'
+<head>
+<title>CV</title>
+<style>
+</style>
+</head>
+<body>
+<img src='bf510b530d0d6b52384a72228730141d.jpg' alt='There should be a picture' width='320px'>
+<div>
+<h1>Alina Simukhina</h1>
+<p>Contacts</p>
+<ul>
+<li>Phone: 89179296561</li>
+<li>GitHub: simalina554</li>
+<li>Discord: Alina (simalina554)</li>
+</ul>
+<p>Brief information</p>
+<p>Skills: Python, Django</p>
+<p>English level: A2</p>
+</div>
+</body>
+</html>
