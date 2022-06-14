@@ -16,8 +16,7 @@
 No work experience. I want to learn JavaScript and improve my knowledge</p>
 <p>Skills: Python, Django</p>
 <p>English level: A2</p>
-<p>Example code</p>
-  <p><a href='https://github.com/simalina554/webHtml/tree/main/miniWebsite'></a></p>
+  <p><a href='https://github.com/simalina554/webHtml/tree/main/miniWebsite'>Example project</a></p>
 </div>
 </body>
 </html>
