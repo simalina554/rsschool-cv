@@ -1,0 +1,20 @@
+body{
+  background:#DAAD86;
+  font-family: 'Indie Flower', cursive, san-serif;
+  font-size: 13px;
+}
+
+.container-fluid{
+  padding-left: 5px;
+  padding-right: 5px;
+}
+a{
+  color: #fbeec1;
+}
+
+
+#beu{
+	font-size: 14px;
+	font-family: 'Vujahday Script', cursive;, san-serif;
+		
+}
