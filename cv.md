@@ -1,6 +1,3 @@
-
-<head>
-</head>
 <body>
 <img src='bf510b530d0d6b52384a72228730141d.jpg' alt='There should be a picture' width='320px'>
 <div>
