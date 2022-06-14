@@ -1,7 +1,8 @@
-First and last name: Alina Simuhina;<br>
+<p><b>Alina Simuhina</b></p><br>
 ![9_SJQdWwPI_IErKdYLDeg521aiSOg0yjjwgslPlFN7Iq7ZS-MHG6ZsR2_3AREBTIIb4RW9ZS]
 <br>
-Contacts for communication: phone: +7 917 929-65-66; dickort: simalina554;<br>
+<b>Contacts</b>
+<p>phone: +7 917 929-65-66;<br>dickort: simalina554;</p><br>
 Brief information about yourself: 1) goal: to become better; 2) priorities: get more experience; 3) emphasize your strengths: responsibility, purposefulness; 4) about his desire to learn and learn new things: a great desire to learn new things;<br>
 Skills: Python, Django;<br>
 English: A2.
